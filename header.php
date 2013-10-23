@@ -9,15 +9,16 @@
 <body>
 
     <div class="row">
-        <div class="large-4 columns">
+        <div class="large-3 columns">
             <h1><img src="img/acm-icpc-logo.gif"></h1>
         </div>
-        <div class="large-8 columns">
+        <div class="large-9 columns">
             <ul class="right button-group">
                 <li><a href="index.php" class="button">Inicio</a></li>
                 <li><a href="quees.php" class="button">¿Qué es?</a></li>
                 <li><a href="#" class="button">Registro</a></li>
-                <li><a href="hotelSede.php" class="button">Hotel Sede</a></li>
+                <li><a href="sede.php" class="button">Sede</a></li>
+                <li><a href="practica.php" class="button">Practica</a></li>
                 <li><a href="contacto.php" class="button">Contacto</a></li>
             </ul>
         </div>

@@ -1,12 +1,12 @@
 <div class="large-3 pull-9 columns">
 
     <ul class="side-nav">
-        <li><a href="#">Section 1</a></li>
-        <li><a href="#">Section 2</a></li>
-        <li><a href="#">Section 3</a></li>
-        <li><a href="#">Section 4</a></li>
-        <li><a href="#">Section 5</a></li>
-        <li><a href="#">Section 6</a></li>
+        <li><a href="index.php">Inicio</a></li>
+        <li><a href="quees.php">¿Qué es?</a></li>
+        <li><a href="#">Registro</a></li>
+        <li><a href="sede.php">sede</a></li>
+        <li><a href="practica.php">Practica</a></li>
+        <li><a href="contacto.php">Contacto</a></li>
     </ul>
 
     <p><img src="img/ibmsponsor.png" /></p>

@@ -29,14 +29,14 @@
         <div class="row">
             <div class="large-4 columns">
                 <img src="http://placehold.it/400x300&text=[img]" />
-                <h4>This is a content section.</h4>
-                <p>Bacon ipsum dolor sit amet nulla ham qui sint exercitation eiusmod commodo, chuck duis velit. Aute in reprehenderit, dolore aliqua non est magna in labore pig pork biltong. Eiusmod swine spare ribs reprehenderit culpa. Boudin aliqua adipisicing rump corned beef.</p>
+                <h4>¿Qué es?.</h4>
+                <p>Conoce de que trata el torneo del ICPC.</p>
             </div>
 
             <div class="large-4 columns">
                 <img src="http://placehold.it/400x300&text=[img]" />
-                <h4>This is a content section.</h4>
-                <p>Bacon ipsum dolor sit amet nulla ham qui sint exercitation eiusmod commodo, chuck duis velit. Aute in reprehenderit, dolore aliqua non est magna in labore pig pork biltong. Eiusmod swine spare ribs reprehenderit culpa. Boudin aliqua adipisicing rump corned beef.</p>
+                <h4>Instalaciones.</h4>
+                <p>El torneo se llevará acabo en las instalaciones del área de sistemas del Tecnológico de Ciudad Madero.</p>
             </div>
 
             <div class="large-4 columns">
