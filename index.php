@@ -14,10 +14,7 @@
                     <!--<img src="http://placehold.it/1000x400&text=[ img 1 ]" />-->
                 <!--</div>-->
                 <ul data-orbit>
-                    <li><img src="http://placehold.it/1000x400&text=[ img 1 ]" /></li>
-                    <li><img src="http://placehold.it/1000x400&text=[ img 2 ]" /></li>
-                    <li><img src="http://placehold.it/1000x400&text=[ img 3 ]" /></li>
-                    <li><img src="http://placehold.it/1000x400&text=[ img 4 ]" /></li>
+                    <li><img src="img/banner.jpg" /></li>
                 </ul>
 
                 <hr />
@@ -28,21 +25,24 @@
 
         <div class="row">
             <div class="large-4 columns">
-                <img src="http://placehold.it/400x300&text=[img]" />
-                <h4>¿Qué es?.</h4>
+               <img src="img/think.jpg" />
+               <h4>Think</h4>
+            <h4><a href="quees.php">¿Qué es?</a></h4>
                 <p>Conoce de que trata el torneo del ICPC.</p>
             </div>
 
             <div class="large-4 columns">
-                <img src="http://placehold.it/400x300&text=[img]" />
-                <h4>Instalaciones.</h4>
+                <img src="img/create.jpg" />
+                <h4>Create</h4>
+                <h4><a href="sede.php">Instalaciones.</a></h4>
                 <p>El torneo se llevará acabo en las instalaciones del área de sistemas del Tecnológico de Ciudad Madero.</p>
             </div>
 
             <div class="large-4 columns">
-                <img src="http://placehold.it/400x300&text=[img]" />
-                <h4>This is a content section.</h4>
-                <p>Bacon ipsum dolor sit amet nulla ham qui sint exercitation eiusmod commodo, chuck duis velit. Aute in reprehenderit, dolore aliqua non est magna in labore pig pork biltong. Eiusmod swine spare ribs reprehenderit culpa. Boudin aliqua adipisicing rump corned beef.</p>
+                <img src="img/solve.jpg" />
+                <h4>Solve</h4>
+                <h4><a href="reglamento.php">Reglamento.</a></h4>
+                <p>Te aconsejamos leas el reglamento del torneo.</p>
             </div>
 
         </div>
