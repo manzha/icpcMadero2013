@@ -16,7 +16,7 @@
             <ul class="right button-group">
                 <li><a href="index.php" class="button">Inicio</a></li>
                 <li><a href="quees.php" class="button">¿Qué es?</a></li>
-                <li><a href="#" class="button">Registro</a></li>
+                <li><a href="registro.php" class="button">Registro</a></li>
                 <li><a href="sede.php" class="button">Sede</a></li>
                 <li><a href="agenda.php" class="button">Agenda</a></li>
                 <li><a href="contacto.php" class="button">Contacto</a></li>

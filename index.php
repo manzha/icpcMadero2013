@@ -15,6 +15,8 @@
                 <!--</div>-->
                 <ul data-orbit>
                     <li><img src="img/banner.jpg" /></li>
+                    <li><img src="img/banner1.jpg" /></li>
+                    <li><img src="img/banner2.jpg" /></li>
                 </ul>
 
                 <hr />

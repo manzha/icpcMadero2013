@@ -18,6 +18,11 @@
             <p>El torneo se llevará acabo en el Laboratorio de Computo del Tecnológico, este se encuentra localizado en el Campus II, frente al Centro de Información.</p>
             
             <p>También habrá oportunidad de conocer el campus I del instituto, pues la ceremonia de clausura se realizará en el Gran Salón T2.</p>
+            <ul class="large-block-grid-2">
+                <li><img alt="Laboratorio de Computo"src="img/edificiolab.jpg"/></li>
+                <li><img alt="Unidad Academica de Sistemas" src="img/sistemas.jpg"/></li>
+            </ul>
+            
 
 
         </div>

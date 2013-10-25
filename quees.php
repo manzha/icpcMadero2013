@@ -29,8 +29,10 @@
             </ul>
 
             <p>El ICPC (International Collegiate Programming Contest) es el concurso de programación más grande del mundo que es auspiciado por la ACM, este evento se realiza año con año en todo el mundo. Para lograr lo anterior el concurso se divide en regiones autónomas en los 5 continentes. México es sede de una de estas regiones, el primer concurso se realizó en 1997 y ha venido organizándose año con año teniendo como sedes de este evento las distintas universidades del país.</p>
+            
             <p>La finalidad de este concurso es seleccionar los equipos de programadores que representará a nuestro país en la final mundial de ICPC de ACM.</p>
-
+            
+            <p><img src="img/icpc.jpg" alt="ICPC"/></p>
         </div>
 
 
